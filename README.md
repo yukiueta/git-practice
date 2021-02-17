@@ -5,3 +5,4 @@ Git-hub上で更新！！！
 Conflict-remoteで更新！！
 rebase-practiceブランチで更新！
 rebase-practiceブランチで更新！2nd
+Github上で更新！！
